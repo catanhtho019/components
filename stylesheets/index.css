@@ -1,0 +1,18 @@
+@import url(_card.css);
+
+body {
+  background-color: pink;
+}
+h1 {
+  color:#022c43;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  color:#053f5e;
+}
+
+p {
+  color:#115173;
+}
